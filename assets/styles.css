@@ -123,6 +123,10 @@ a {
   width: 275px;
 }
 
+.child-img {
+  width: 330px;
+}
+
 .poster-img {
   float: right;
 }
