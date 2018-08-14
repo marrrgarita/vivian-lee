@@ -140,6 +140,15 @@ a {
   padding: 50px 15% 65px 15%;
 }
 
+.about a {
+  text-transform: none;
+  color: #40526f;
+  font-family: 'Times', sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
 .research h3 {
   color: #c0ccd6;
 }
