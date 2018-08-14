@@ -163,6 +163,8 @@ a {
   padding-bottom: 10px;
   font-size: 20px;
   color: #40526f;
+  border-bottom: #40526f 1px solid;
+  margin-bottom: 10px;
 }
 
 .main-title {
