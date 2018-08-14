@@ -67,7 +67,7 @@ header {
   padding: 20px 5% 20px 5%;
   background-color: #40526f;
   width: 100%;
-  color: #9caebc;
+  color: #40526f;
 }
 
 h1, h2, h3, nav, a {
@@ -102,7 +102,7 @@ b {
 
 a {
   font-size: 16px;
-  color: #9caebc;
+  color: #40526f;
 }
 
 .container {
@@ -112,7 +112,7 @@ a {
 
 .content a:hover {
   color: #fcfdff;
-  background-color: #9caebc;
+  background-color: #40526f;
 }
 
 .profile-img,
@@ -150,7 +150,7 @@ a {
 }
 
 .research h3 {
-  color: #9caebc;
+  color: #40526f;
 }
 
 .research p {
@@ -162,7 +162,7 @@ a {
 .pub-type {
   padding-bottom: 10px;
   font-size: 20px;
-  color: #9caebc;
+  color: #40526f;
 }
 
 .main-title {
@@ -185,7 +185,7 @@ a {
 
 .main-nav > a:hover {
   color: #40526f;
-  background-color: #9caebc;
+  background-color: #fcfdff;
 }
 
 footer {
