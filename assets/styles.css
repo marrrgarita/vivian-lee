@@ -171,6 +171,10 @@ a {
   display: inline-block;
 }
 
+.main-title h1 {
+  color: #dde4ea;
+}
+
 .main-nav {
   float: right;
   font-size: 24px;
