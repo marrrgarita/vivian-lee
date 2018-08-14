@@ -67,7 +67,7 @@ header {
   padding: 20px 5% 20px 5%;
   background-color: #40526f;
   width: 100%;
-  color: #c3d1dd;
+  color: #9caebc;
 }
 
 h1, h2, h3, nav, a {
@@ -102,7 +102,7 @@ b {
 
 a {
   font-size: 16px;
-  color: #c3d1dd;
+  color: #9caebc;
 }
 
 .container {
@@ -112,7 +112,7 @@ a {
 
 .content a:hover {
   color: #fcfdff;
-  background-color: #c3d1dd;
+  background-color: #9caebc;
 }
 
 .profile-img,
@@ -150,7 +150,7 @@ a {
 }
 
 .research h3 {
-  color: #c0ccd6;
+  color: #9caebc;
 }
 
 .research p {
@@ -162,7 +162,7 @@ a {
 .pub-type {
   padding-bottom: 10px;
   font-size: 20px;
-  color: #c3d1dd;
+  color: #9caebc;
 }
 
 .main-title {
@@ -185,7 +185,7 @@ a {
 
 .main-nav > a:hover {
   color: #40526f;
-  background-color: #c3d1dd;
+  background-color: #9caebc;
 }
 
 footer {
